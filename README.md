@@ -1,6 +1,6 @@
 # Sistema Bancário Simples
 
-Este é um sistema bancário simples implementado em Python. Ele permite a realização de operações bancárias básicas, como depósito, saque e visualização de extrato.
+Este é um sistema bancário simples implementado em Python. Ele permite a realização de operações bancárias básicas, como depósito, saque, visualização de extrato e log de operações persistido em escrita de arquivo txt.
 
 ## Funcionalidades Principais
 
